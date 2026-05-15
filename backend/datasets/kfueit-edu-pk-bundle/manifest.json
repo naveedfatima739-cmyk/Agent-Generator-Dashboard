@@ -1,0 +1,12 @@
+{
+  "partner_id": "kfueit-edu-pk",
+  "partner_display_name": "KFUET Website Chatbot",
+  "submission_cycle_label": "cycle-2026-05",
+  "schema_version": "1.0",
+  "generated_at": "2026-05-13T21:22:37.957506Z",
+  "counts": {
+    "sources": 166,
+    "records": 166,
+    "documents": 0
+  }
+}

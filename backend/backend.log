@@ -1,0 +1,50 @@
+INFO:     Will watch for changes in these directories: ['/Users/zeeshantariq/Documents/WebApps/kfuet-project/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [67439] using StatReload
+INFO:     Started server process [67444]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+DEBUG: Looking for: /Users/zeeshantariq/Documents/WebApps/kfuet-project/backend/datasets/e5538b4b-5052-4b49-9bf0-9a53e5b986f0.json
+DEBUG: File exists: True
+DEBUG: Dataset loaded, records count: 1
+INFO:     127.0.0.1:63536 - "POST /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/chat HTTP/1.1" 200 OK
+DEBUG: Looking for: /Users/zeeshantariq/Documents/WebApps/kfuet-project/backend/datasets/e5538b4b-5052-4b49-9bf0-9a53e5b986f0.json
+DEBUG: File exists: True
+DEBUG: Dataset loaded, records count: 1
+INFO:     127.0.0.1:63570 - "POST /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63652 - "GET /agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63695 - "OPTIONS /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/train HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63695 - "POST /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/train HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63697 - "OPTIONS /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/chat HTTP/1.1" 200 OK
+DEBUG: Looking for: /Users/zeeshantariq/Documents/WebApps/kfuet-project/backend/datasets/e5538b4b-5052-4b49-9bf0-9a53e5b986f0.json
+DEBUG: File exists: True
+DEBUG: Dataset loaded, records count: 1
+INFO:     127.0.0.1:63697 - "POST /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/chat HTTP/1.1" 200 OK
+DEBUG: Looking for: /Users/zeeshantariq/Documents/WebApps/kfuet-project/backend/datasets/e5538b4b-5052-4b49-9bf0-9a53e5b986f0.json
+DEBUG: File exists: True
+DEBUG: Dataset loaded, records count: 1
+INFO:     127.0.0.1:63888 - "POST /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/chat HTTP/1.1" 200 OK
+DEBUG: Looking for: /Users/zeeshantariq/Documents/WebApps/kfuet-project/backend/datasets/e5538b4b-5052-4b49-9bf0-9a53e5b986f0.json
+DEBUG: File exists: True
+DEBUG: Dataset loaded, records count: 1
+INFO:     127.0.0.1:64004 - "POST /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/chat HTTP/1.1" 200 OK
+DEBUG: Looking for: /Users/zeeshantariq/Documents/WebApps/kfuet-project/backend/datasets/e5538b4b-5052-4b49-9bf0-9a53e5b986f0.json
+DEBUG: File exists: True
+DEBUG: Dataset loaded, records count: 1
+INFO:     127.0.0.1:64037 - "POST /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0/chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64288 - "OPTIONS /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64288 - "DELETE /agents/e5538b4b-5052-4b49-9bf0-9a53e5b986f0 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64288 - "GET /agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64290 - "OPTIONS /agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64290 - "POST /agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64290 - "GET /agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64328 - "OPTIONS /agents/f416f118-e557-4561-870e-72755b02114e/train HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64328 - "POST /agents/f416f118-e557-4561-870e-72755b02114e/train HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64351 - "GET /agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64408 - "GET /agents HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64408 - "GET /agents/f416f118-e557-4561-870e-72755b02114e/embed-code HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64421 - "OPTIONS /agents/f416f118-e557-4561-870e-72755b02114e/chat HTTP/1.1" 200 OK
+DEBUG: Looking for: /Users/zeeshantariq/Documents/WebApps/kfuet-project/backend/datasets/f416f118-e557-4561-870e-72755b02114e.json
+DEBUG: File exists: True
+DEBUG: Dataset loaded, records count: 1
+INFO:     127.0.0.1:64421 - "POST /agents/f416f118-e557-4561-870e-72755b02114e/chat HTTP/1.1" 200 OK
